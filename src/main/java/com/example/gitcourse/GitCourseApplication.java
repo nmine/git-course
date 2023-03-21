@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitCourseApplication {
 
     public static void main(String[] args) {
-        //Test2
-        //
-        SpringApplication.run(GitCourseApplication.class, args);
+
     }
     //fix commit 3pp
 
