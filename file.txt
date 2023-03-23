@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add stuff after rebase  branch1
+=======
+add stuff master/branch1
+>>>>>>> 16197df (file master/branch1)
